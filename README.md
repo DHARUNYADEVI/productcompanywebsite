@@ -959,14 +959,9 @@ ul li a:hover{
 
 ```
 ## OUTPUT:
-![Alt text](<Screenshot from 2023-12-20 22-31-41.png>)
-![Alt text](<Screenshot from 2023-12-20 22-32-07.png>)
-![Alt text](<Screenshot from 2023-12-20 22-32-21.png>)
-![Alt text](<Screenshot from 2023-12-20 22-32-34.png>)
-### Home Page:
-
-![output](./images/homepage.jpg)
-
+![image](https://github.com/DHARUNYADEVI/productcompanywebsite/assets/147473847/f670847c-0303-45db-ba17-baa16d097933)
+![Screenshot from 2023-12-20 22-32-21](https://github.com/DHARUNYADEVI/productcompanywebsite/assets/147473847/3a0aa06e-2957-4525-8990-42e96fe95e8b)
+![Screenshot from 2023-12-20 22-32-07](https://github.com/DHARUNYADEVI/productcompanywebsite/assets/147473847/ac7926cb-45be-47f8-85bb-51167678d8c0)
+![Screenshot from 2023-12-20 22-32-34](https://github.com/DHARUNYADEVI/productcompanywebsite/assets/147473847/b30d8fce-2e17-441c-9994-96e037a2a06d)
 ## Result:
-
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
